@@ -5,9 +5,11 @@ one:
   phone: MyString
   address: MyString
   email: MyString
+  category_id: 
 
 two:
   name: MyString
   phone: MyString
   address: MyString
   email: MyString
+  category_id: 
